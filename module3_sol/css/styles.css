@@ -1,0 +1,81 @@
+body {
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+  margin-bottom: 25px;
+}
+
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color: #547c1k;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 15px;
+  line-height: .75;
+  text-align: left;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  text-align: left;
+}
+
+#all-text {
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+#all-text h2 {
+  text-align: center;
+  font-weight: bold;
+}
+
+#all-text #chicken-text h3{
+  text-align: center;
+  font-weight: bold;
+}
+
+#all-text #chicken-text {
+  background-color: #27e265;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+/*#all-text #chicken-text p {
+  margin: 10px;
+}*/
+
+/*.navbar-collapse {
+  padding: 15px;
+}*/
+#collapsable-nav a {
+  text-align: center;
+  background-color: #f57a03;
+}
+
+#collapsable-nav {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
